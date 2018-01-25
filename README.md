@@ -9,3 +9,5 @@
 
 5) In Terminal type 'git push -u origin master'. This will push anything added in step 4 to GitHub repo.
 
+6) Anything else that is already in GitHub will undergo Step 2, 3, 5 respectfully.
+
