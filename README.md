@@ -5,7 +5,7 @@
 
 3) In Terminal type 'git commit -m "first commit"'.
 
-4) In Terminal type 'git remote add origin https://github.com/mlam9/x.git'.
+4) In Terminal type 'git remote add origin https://github.com/mlam9/x.git'. Where x is the repository that is on github. It helps that the repository on your desktop is the same name as the repository on your github.
 
 5) In Terminal type 'git push -u origin master'. This will push anything added in step 4 to GitHub repo.
 
